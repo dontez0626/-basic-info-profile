@@ -6,3 +6,7 @@ The basic info profile is a command-line-input application run in Node(node inde
 
  Screen shot below:
  ![image](https://user-images.githubusercontent.com/82189292/124368221-fd396180-dc2c-11eb-865a-001e47638f88.png)
+ 
+ 
+ #Walkthough video showing functionality link below:
+ https://drive.google.com/file/d/1uc22jfnhXLXBSIYH1c39NOZ-uNTavODo/view
